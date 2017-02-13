@@ -1,0 +1,27 @@
+{
+  "name": "timezonepicker",
+  "authors": [
+    "Nate Haug/quicksketch"
+  ],
+  "description": "bower package for jQuery Timezone Picker",
+  "main": "lib/jquery.timezone-picker.js",
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "maphilight": "~1.3.0"
+  },
+  "keywords": [
+    "jquery",
+    "timezone",
+    "picker"
+  ],
+  "license": "MIT",
+  "homepage": "timezonepicker.com",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
